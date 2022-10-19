@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Coding from Home GIF"/>
 </div>
 <br/>
 <div id="badges" align="center">
@@ -12,11 +12,16 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2 align="center">
+  <img src="https://bestanimations.com/media/right/689323598right-arrow31.gif" width="30" alt="arrow to right"/>
+  My name is Vasi
+  <img src="https://bestanimations.com/media/left/1229743899left-arrow-17.gif" width="30" alt="arrow to left"/>
+  <br>
  <p align="center"><img src=https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif alt="Person coding"><p>
  <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vasi012" alt="Vasi012" /></a> </p>
 <h2> 👨‍💻<em>About Me:</em></h2>
- <p>I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> based in London.</p>
+ <p>I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="coding"> based in London.</p>
  
 - :telescope: I’m looking for my next oportunity, curently studying at <strong>Code Institute</strong>, and undertaking a degree in <strong>Business and Management</strong>.
 
