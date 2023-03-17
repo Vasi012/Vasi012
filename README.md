@@ -23,11 +23,11 @@
 <h2> 👨‍💻<em>About Me:</em></h2>
  <p>I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="coding"> based in London.</p>
  
-- :telescope: I’m looking for my next oportunity, curently studying at <strong>Code Institute</strong>, and undertaking a degree in <strong>Business and Management</strong>.
+- :telescope: I’m looking for my next oportunity, garaduated from <strong>Code Institute</strong> with Merit. Undertaking a degree in <strong>Business Management and Administration</strong>.
 
 - :seedling: Curently learning <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b95218bebfed0f3c99f805d4ab48d52fcce96a249b0a&rid=giphy.gif&ct=s" width="25px"/>
 
-- 👨‍🎓 In my free time, I study for <strong><em>University</em></strong> & <strong><em>Code Institute</em></strong>. <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/rocket_1f680.gif" width="25"/>
+- 👨‍🎓 In my free time, I study for <strong><em>University</em></strong> & <strong><em>Personal Development</em></strong>. <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/rocket_1f680.gif" width="25"/>
 
 - :mailbox:How to reach me?: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vasilicapavaloi/) <img src="https://static.wixstatic.com/media/8063f4_f1b555414e674a07a8f92a85dac3c049~mv2.gif" width="30"/>
 ---
