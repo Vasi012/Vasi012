@@ -85,7 +85,7 @@ At Code Institute, I lead sessions, provide one-to-one guidance, and assess stud
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vasi012&theme=ocean-dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Vasi012&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasi012&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   <br/>
